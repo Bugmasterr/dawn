@@ -52,7 +52,7 @@
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
+            "show_gift_card_recipient": false
           }
         },
         "description": {
@@ -117,6 +117,9 @@
         "collapsible-row-2",
         "collapsible-row-3",
         "share"
+      ],
+      "custom_css": [
+        ".grid {display: flex;}"
       ],
       "settings": {
         "enable_sticky_info": true,
