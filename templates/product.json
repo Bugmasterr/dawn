@@ -119,7 +119,7 @@
         "share"
       ],
       "custom_css": [
-        ".grid {display: flex;}"
+        ".grid {display: flex; --asdfgjkl: 0;}"
       ],
       "settings": {
         "enable_sticky_info": true,
